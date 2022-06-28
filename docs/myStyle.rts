@@ -1,0 +1,6 @@
+[STYLESHEET]
+name=MyStyle
+base=sphinx_article
+
+[object description]
+label_max_width=10pt
